@@ -2,7 +2,7 @@
 
 ![Vanilla JS To-Do List with local storage](README.png?raw=true "Vanilla JS To-Do List with local storage")
 
-### <a href="https://marius-portfolio-website.herokuapp.com/">LIVE DEMO</a>
+### <a href="https://marius-adam.github.io/The-Mighty-To-Do-List/">LIVE DEMO</a>
 
 ## Description
 
